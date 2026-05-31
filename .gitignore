@@ -1,0 +1,15 @@
+# Logs written by the scripts at runtime (may contain machine-specific info)
+*-log-*.txt
+Debloat-log-*.txt
+DellAlienware-log-*.txt
+Edge-tuneup-log-*.txt
+Startup-tuneup-log-*.txt
+
+# Per-run removal manifest (machine-specific)
+last-removal.json
+
+# OS / editor cruft
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
